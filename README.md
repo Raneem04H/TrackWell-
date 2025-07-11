@@ -1,4 +1,4 @@
-# 🏃 TrackWell - Health Tracker
+#  TrackWell 
 
 **TrackWell** is a Java-based desktop application designed to help users manage and monitor their physical activities. Developed as an OOP project, the application features a user-friendly GUI, basic tracking and registration capabilities, and uses **JDBC** to connect to a **MySQL** database for storing user information, activities, and other data. 
 
