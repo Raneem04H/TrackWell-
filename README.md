@@ -28,43 +28,41 @@
 TrackWell-Health-Tracker/
 │
 ├── src/
-│ ├── GUI/ # Graphical User Interface (GUI) classes
-│ │ ├── AdminDashBoard.java # Admin dashboard
-│ │ ├── Dashboard.java # User dashboard
-│ │ ├── LoginFrame.java # Login interface
-│ │ ├── RegistrationFrame.java # Registration interface
-│ │ └── WelcomePage.java # Welcome / Start page
-│ │
-│ ├── model/ # Data models for the application
-│ │ ├── Activity.java
-│ │ ├── Admin.java
-│ │ ├── Cycling.java
-│ │ ├── Notification.java
-│ │ ├── Payment.java
-│ │ ├── Report.java
-│ │ ├── Running.java
-│ │ ├── Swimming.java
-│ │ ├── Trainee.java
-│ │ ├── User.java
-│ │ ├── Yoga.java
-│ │ └── WeightTraining.java
-│ │
-│ ├── Database/ # Database connection and queries
-│ │ └── DBConnection.java
-│ │
-│ └── Main/ # Main class to run the application
-│ └── TrackWell.java
+│   ├── GUI/                           # Graphical User Interface (GUI) classes
+│   │   ├── AdminDashBoard.java        # Admin dashboard
+│   │   ├── Dashboard.java             # User dashboard
+│   │   ├── LoginFrame.java            # Login interface
+│   │   ├── RegistrationFrame.java     # Registration interface
+│   │   └── WelcomePage.java           # Welcome / Start page
+│   │
+│   ├── model/                         # Data models for the application
+│   │   ├── Activity.java
+│   │   ├── Admin.java
+│   │   ├── Cycling.java
+│   │   ├── Notification.java
+│   │   ├── Payment.java
+│   │   ├── Report.java
+│   │   ├── Running.java
+│   │   ├── Swimming.java
+│   │   ├── Trainee.java
+│   │   ├── User.java
+│   │   ├── Yoga.java
+│   │   └── WeightTraining.java
+│   │
+│   ├── Database/                      # Database connection and queries
+│   │   └── DBConnection.java
+│   │
+│   └── Main/                          # Main class to run the application
+│       └── TrackWell.java
 │
-├── resources/ # Application resources (images, icons, etc.)
-│ ├── logo.png
-│ └── logo1.png
+├── resources/                         # Application resources (images, icons, etc.)
+│   ├── logo.png
+│   └── logo1.png
 │
-├── Database/ # SQL scripts for database setup
-│ └── database.sql
+├── Database/                               # SQL scripts for database setup
+│   └── database.sql
 │
-├── README.md # Project documentation (this file)
-
-
+├── README.md                          # Project documentation (this file)
 
 
 
