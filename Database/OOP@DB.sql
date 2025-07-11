@@ -1,0 +1,1 @@
+SELECT * FROM health_tracker.users;
