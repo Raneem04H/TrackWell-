@@ -23,6 +23,7 @@
 ---
 
 ## 📂 Project Structure
+```plaintext
 
 TrackWell-Health-Tracker/
 │
